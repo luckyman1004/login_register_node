@@ -1,0 +1,28 @@
+{
+  "name": "node.js-login-register",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinushchathurya/node.js-login-register.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinushchathurya/node.js-login-register/issues"
+  },
+  "homepage": "https://github.com/dinushchathurya/node.js-login-register#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.19.4",
+    "pug": "^2.0.4"
+  }
+}
