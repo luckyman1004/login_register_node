@@ -25,5 +25,5 @@
     "nodemon": "^1.19.4",
     "pug": "^2.0.4"
   }
-
+"publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
